@@ -1,2 +1,2 @@
 # C
-Study C Basic Grammar to Advanced Application
+Learn C Basic Grammar to Advanced Application
