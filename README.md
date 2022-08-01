@@ -1,2 +1,2 @@
 # C
-C언어 기본 문법부터 심화까지 공부하기
+Study C Basic Grammar to Advanced Application
